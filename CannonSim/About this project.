@@ -1,0 +1,8 @@
+This is a project created for museum hack. A 48 hour event.
+
+Our group called 'CannDan' decided to create a cannon simulator by creating a unity game from the first person prospective
+of the gunner. We created a controller using a micro controller connected to a physical cannon, so that the user could aim
+using a model cannon to control the cannon in the simulator.
+
+This is a bit of a hack job, more proof of concept. Although, the simulator and the micro-controller works :). Could be improved
+on, but ran out of time.
